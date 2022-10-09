@@ -6,6 +6,10 @@ header h1 span {
 
 }
 
+header {
+    background-color: silver;
+}
+
 header h1 {
     font-family: 'Noto-Naksh-Arabic', serif;
     text-align: right;
@@ -31,7 +35,7 @@ nav li {
     color: black;
     text-align: center;
     float: left;
-    padding-right: 15px;
+    padding-right: 50px;
     font-size: 25px;
 }
 
@@ -83,4 +87,8 @@ nav a:hover {
     width: 100%;
     height: 100%;
     object-fit: contain;
+}
+
+#history {
+    background-color: silver;
 }
