@@ -1,17 +1,24 @@
-header h1 {
-    font-family: poppins, sans-serif;
-    font-size: 100px;
+header h1 span {
+    font-family: 'Poppins', sans-serif;
+    font-size: 90px;
     margin-right: 100px;
     padding-right: 50px;
-    text-align: center;
+
 }
 
-header h1 span {
-    font-family: noto-naksh-arabic;
+header h1 {
+    font-family: 'Noto-Naksh-Arabic', serif;
     text-align: right;
-    font-size: 100px;
+    font-size: 90px;
     margin-left: 100px;
     padding-right: 50px;
+    text-align: center;
+    margin-top: 0;
+}
+
+#umar {
+    width: 100%;
+    height: 120px;
 }
 
 #nav-center {
@@ -32,7 +39,7 @@ nav a {
     color: white;
     text-decoration: none;
     font-size: 90%;
-    font-family: roboto;
+    font-family: 'Roboto', sans-serif;
     margin-top: 5%;
 }
 
@@ -53,6 +60,11 @@ nav a:hover {
     margin-top: 50px;
 }
 
+.text-info h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
 .text-info {
+    font-family: 'Roboto', sans-serif;
     width: 70%;
 }
