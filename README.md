@@ -26,13 +26,39 @@ The page is split into 3 sections: an intro, a brief history and media represent
 
 ![history screenshot](assets/images/history.png)
 
-## The Media Section
+### The Media Section
 
 * There is abrief sentence explaining that there is not a lot of media portraying the Caliph
 * This section includes an iframe to play the trailer for the MBC Omar Series
 * There is also a map showing the extent of the rule of the Caliph
 
 ![media screenshot](assets/images/history.png)
+
+## Testing
+
+* I tested the site in Chrome and Edge
+* I confirmed that the site works and looks acceptbale at various screen sizes
+* I confirmed that it is readable and understandable
+* I confirmed that the vidoe plays when clicked
+
+## Bugs
+
+* I solved the majority of the bugs as I went, for example I initially accidentally styled the header Umar div and span the wrong war around
+* I struggled to for all the images I wanted to in the history section properly - I opted to only add 1 image. I am not certain the reason for this and would require further investigation - perhaps the addition of more divs and spans
+
+## Validation
+
+* I validated my code using the html validator and corrected the issue. Html validator said remove frameboarder attribute from iframes as it's obsolete. Then second check there were no errors
+* I validated my code using the css validator. I corrected the error found in one of the font-family declarations, there was a comma missing
+* I tested the accessibiilty using the Chrome dev tools lighthouse function
+
+![lighthouse screenshot](assets/images/lighthouse.png)
+
+## Deployment
+
+Deployed to GitPages : https://uhassam0.github.io/CI-Milestone-1-Caliph-Umar/
+
+## Credits
 
 seal from wiki: https://commons.wikimedia.org/wiki/File:Rashidun_Caliphs_Umar_ibn_Al-Khatt%C4%81b_-_%D8%B9%D9%8F%D9%85%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%91%D8%A7%D8%A8_%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86.svg
 
@@ -46,8 +72,3 @@ jerusalem pic: Photo by Haley Black: https://www.pexels.com/photo/white-concrete
 egypt pics: Photo by Pixabay: https://www.pexels.com/photo/great-sphinx-of-giza-under-blue-starry-sky-262780/
 pyramids: Photo by David McEachan: https://www.pexels.com/photo/gray-pyramid-on-dessert-under-blue-sky-71241/
 
-
-html validator said remove frameboarder attribute from iframes as it's obsolete. Then second check no errors
-
-css validator found missing comma 
- lighthouse results: ![](vscode-remote://uhassam0-cimilestone1ca-n5j9mm1s2qw.ws-eu70.gitpod.io/workspace/CI-Milestone-1-Caliph-Umar/assets/images/lighthouse.png)
