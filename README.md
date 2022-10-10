@@ -15,4 +15,6 @@ egypt pics: Photo by Pixabay: https://www.pexels.com/photo/great-sphinx-of-giza-
 pyramids: Photo by David McEachan: https://www.pexels.com/photo/gray-pyramid-on-dessert-under-blue-sky-71241/
 
 
-html validator said remove frameboarder attribute from iframes as it's obsolete
+html validator said remove frameboarder attribute from iframes as it's obsolete. Then second check no errors
+
+css validator found missing comma 
