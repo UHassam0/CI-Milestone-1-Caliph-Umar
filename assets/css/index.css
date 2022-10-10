@@ -114,3 +114,43 @@ nav a:hover {
     background-color: silver;
     height: fit-content;
 }
+
+@media screen and (max-width: 1300px) {
+    #map {
+        display: none;
+    }
+    #wiki {
+        margin: auto;
+        display: none;
+        clear: both;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .external-links-or-images {
+        display: none;
+    }
+
+    .text-info {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 880px) {
+    #mbc-omar-trailer > iframe {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    #umar h1 span {
+        font-size: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    #umar span {
+        font-size: 100%;
+        margin: 0;
+        padding: 0;
+    }
+}
