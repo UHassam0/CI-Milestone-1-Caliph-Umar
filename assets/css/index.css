@@ -85,12 +85,29 @@ nav a:hover {
     width: 30%;
     float: right;
     height: 630px;
+
 }
 
 .external-links-or-images img {
     width: 100%;
     height: 100%;
     object-fit: contain;
+}
+
+/*
+#egypt {
+    width: 50%;
+}
+
+#gold-dome {
+    width: 50%;
+}
+*/
+
+#map {
+    width: 100%;
+    height: auto;
+    margin-top: 25%;
 }
 
 #history {
