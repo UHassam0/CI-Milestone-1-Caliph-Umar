@@ -94,6 +94,9 @@ nav a:hover {
     object-fit: contain;
 }
 
+#mbc-omar-trailer > iframe {
+    border: none;
+}
 /*
 #egypt {
     width: 50%;

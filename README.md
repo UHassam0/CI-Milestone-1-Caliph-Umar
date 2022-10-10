@@ -13,3 +13,6 @@ jerusalem pic: Photo by Haley Black: https://www.pexels.com/photo/white-concrete
 
 egypt pics: Photo by Pixabay: https://www.pexels.com/photo/great-sphinx-of-giza-under-blue-starry-sky-262780/
 pyramids: Photo by David McEachan: https://www.pexels.com/photo/gray-pyramid-on-dessert-under-blue-sky-71241/
+
+
+html validator said remove frameboarder attribute from iframes as it's obsolete
