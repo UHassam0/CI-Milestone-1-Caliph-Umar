@@ -18,3 +18,4 @@ pyramids: Photo by David McEachan: https://www.pexels.com/photo/gray-pyramid-on-
 html validator said remove frameboarder attribute from iframes as it's obsolete. Then second check no errors
 
 css validator found missing comma 
+ lighthouse results: ![](vscode-remote://uhassam0-cimilestone1ca-n5j9mm1s2qw.ws-eu70.gitpod.io/workspace/CI-Milestone-1-Caliph-Umar/assets/images/lighthouse.png)
