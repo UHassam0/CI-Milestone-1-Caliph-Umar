@@ -68,19 +68,23 @@ nav a:hover {
     font-family: 'Poppins', sans-serif;
 }
 
+.text-info h3 {
+    font-family: 'Poppins' sans-serif;
+}
+
 .text-info {
     font-family: 'Roboto', sans-serif;
     width: 70%;
     border: none;
     display: inline-block;
-    height: 600px;
+    height: 630px;
 }
 
 .external-links-or-images {
     border: none;
     width: 30%;
     float: right;
-    height: 600px;
+    height: 630px;
 }
 
 .external-links-or-images img {
@@ -91,4 +95,5 @@ nav a:hover {
 
 #history {
     background-color: silver;
+    height: fit-content;
 }
