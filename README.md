@@ -17,6 +17,22 @@ The page is split into 3 sections: an intro, a brief history and media represent
 * The intro section gives a brief introduction about the reason for the page and my personal interest in the topic and istorical figure.
 * It includes an image for interest
 
+![intro screenshot](assets/images/Intro.png)
+
+### The History section
+
+* This section gives a brief history based on my memory of many sources including the MBC Omar Series mentioned in the article
+* It includes an image of the pyramids of Giza. Egypt was one of the areas ruled by Caliph Umar
+
+![history screenshot](assets/images/history.png)
+
+## The Media Section
+
+* There is abrief sentence explaining that there is not a lot of media portraying the Caliph
+* This section includes an iframe to play the trailer for the MBC Omar Series
+* There is also a map showing the extent of the rule of the Caliph
+
+![media screenshot](assets/images/history.png)
 
 seal from wiki: https://commons.wikimedia.org/wiki/File:Rashidun_Caliphs_Umar_ibn_Al-Khatt%C4%81b_-_%D8%B9%D9%8F%D9%85%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%91%D8%A7%D8%A8_%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86.svg
 
